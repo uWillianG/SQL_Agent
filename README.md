@@ -16,4 +16,4 @@ O **SQL_Agent** foi projetado para:
 2. Main.py:  
    - Carrega o banco `ipca.db` via `SQLDatabase` do LangChain;
    - Monta um toolkit SQL (`SQLDatabaseToolkit`) e um agente ReAct com GPT-4o-mini;
-   - Executa consultas e previsões, respondendo em português;
+   - Executa consultas e previsões.
